@@ -61,8 +61,10 @@ I’m passionate about **streamlining processes**, improving efficiency, and del
 
 ---
 
+
 ## 📫 Let’s Connect  
-[![LinkedIn](www.linkedin.com/in/lovelyn-mwathe-a47888200)
-[![Email]](lynnemwathe@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovelyn-mwathe-a47888200)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lynnemwathe@gmail.com)  
 
 ---
